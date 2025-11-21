@@ -43,6 +43,7 @@ I am a Computer Science student at the **University of Seoul**, deeply fascinate
 
 - **Status:** Completed (ZETIN Club Project)
 - **Tech:** C, Stepper Motors, IR Sensors, P Control
+- **Award:** Grand Prize (Daejeon Mayor Award), Intelligent Creative Robot Contest
 - **Description:** Designed and built an autonomous line-following robot.
   - Adopted **Stepper Motors** instead of DC motors for precise movement and positioning.
   - Implemented **P (Proportional) Control** algorithms to optimize line tracking accuracy on complex tracks.
