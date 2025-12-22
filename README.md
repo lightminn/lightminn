@@ -28,7 +28,20 @@ I am a Computer Science student at the **University of Seoul**, deeply fascinate
 
 ---
 
-## University Projects (ZETIN)
+## University Projects
+
+### Smart Insole Gait Analysis System
+
+**`Completed`** | **`Embedded Systems & IoT`**
+
+- **Status:** Completed (Team Project - Hardware Lead)
+- **Tech:** ESP32, FreeRTOS, Piezoelectric Sensors, HTTP/HTTPS
+- **Description:** Developed a wearable IoT insole system to collect and analyze real-time gait patterns.
+  - Engineered a **Dual-Core Architecture** using **FreeRTOS Queues** to decouple high-frequency sensor sampling (Core 1) from network transmission (Core 0), ensuring zero data loss.
+  - Implemented a **Double Reading Algorithm** and **Dynamic Baseline Filters** to eliminate ADC ghosting and signal crosstalk on 4-channel piezoelectric sensors.
+  - Optimized network performance with **TCP NoDelay** and **HTTP Keep-Alive** for high-speed data streaming via an HTTPS-secured Ngrok tunnel.
+
+## ZETIN Club Projects
 
 ### Custom Drone Fabrication Project
 
